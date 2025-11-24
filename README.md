@@ -1,5 +1,5 @@
 # The Cost of Packet Loss on ML-Based Traffic Analysis
-A detailed description of this repository can be found in our LANMAN paper: [(here)](https://ieeexplore.ieee.org/abstract/document/11154586)
+A detailed description of this repository can be found in our LANMAN paper: [here](https://ieeexplore.ieee.org/abstract/document/11154586)
 
 ## Requirements
 This repository requires: 
